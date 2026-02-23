@@ -112,7 +112,7 @@ Se utilizó además **Permutation Importance** para evaluar la influencia real d
 
 ## 📊 Comparación de modelos
 
-foto
+![Tabla comparativa de modelos](images/tabla_resultados.png)
 
 ### 🔎 Interpretación
 
