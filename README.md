@@ -171,6 +171,48 @@ Fomentar métodos de pago automatizados para reducir fricción operativa y proba
 
 ---
 
+## 🚀 Instrucciones para ejecutar el cuaderno
+
+Para reproducir el análisis y los modelos de predicción, seguir los siguientes pasos:
+
+### 1️⃣ Clonar el repositorio
+
+```bash
+git clone https://github.com/JonathanMarino/Challenge-Telecom-X-parte-2.git
+cd Challenge-Telecom-X-parte-2
+
+```
+
+### 2️⃣ Instalar dependencias
+
+```bash
+pip install -r requirements.txt
+
+```
+
+### 3️⃣ Dataset
+
+El dataset utilizado en el proyecto se encuentra disponible en el repositorio bajo el nombre:
+
+`df_final.csv`
+
+El cuaderno parte del DataFrame df_final, por lo que no es necesario realizar procesos adicionales de limpieza previos a la ejecución.
+
+---
+
+### 4️⃣ Ejecutar el cuaderno
+
+Abrir el archivo `.ipynb` con:
+
+```bash
+jupyter notebook
+```
+
+o desde VS Code, y ejecutar las celdas en orden secuencial.
+
+⚠️ Importante:
+Para obtener los mismos resultados, se recomienda ejecutar todas las celdas desde el inicio sin omitir pasos intermedios.
+
 ## 👤 Autor
 **[Jonathan Marino](https://github.com/JonathanMarino)**
 
