@@ -12,7 +12,8 @@
 4. [⚙️ Desarrollo del proyecto](#️-desarrollo-del-proyecto)
 5. [📌 Resultados destacados](#-resultados-destacados)
 6. [✅ Tecnologías utilizadas](#-tecnologías-utilizadas)
-7. [👤 Autor](#-autor)
+7. [🚀 Instrucciones para ejecutar el cuaderno](#-instrucciones-para-ejecutar-el-cuaderno)
+8. [👤 Autor](#-autor)
 
 ---
 
@@ -196,7 +197,7 @@ El dataset utilizado en el proyecto se encuentra disponible en el repositorio ba
 
 `df_final.csv`
 
-El cuaderno parte del DataFrame df_final, por lo que no es necesario realizar procesos adicionales de limpieza previos a la ejecución.
+El cuaderno parte del DataFrame "df_final", por lo que no es necesario realizar procesos adicionales de limpieza previos a la ejecución.
 
 ---
 
